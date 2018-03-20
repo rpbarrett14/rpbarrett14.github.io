@@ -1,0 +1,11 @@
+body {
+	background-image: url(backgroundimage.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #9AA090;
+}
+
+.jumbotron {
+	color: black;
+	background-color: #C6CBBE;
+}
